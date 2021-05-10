@@ -1,6 +1,6 @@
 <h1> Hello, Aashay here 👋 </h1>
 
-var role = arrayOf("AI enthusiast", "Coding enthusiast", "Researcher", "Writer", "Developer","Founder of SimplyPy")
+var role = arrayOf("AI enthusiast", "Coding enthusiast", "Researcher", "Writer", "Developer","Founder of <a href="">SimplyPy</a>)
 <br><br>
 val love = Android Development
 <br>
