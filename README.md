@@ -1,6 +1,6 @@
 <h1> Hello, Aashay here 👋 </h1>
 
-var role = arrayOf("AI enthusiast", "Coding enthusiast", "Researcher", "Writer", "Developer","Founder of <a href="">SimplyPy</a>)
+var role = arrayOf("AI enthusiast", "Coding enthusiast", "A friend more than a mentor", "Researcher", "Writer", "Developer","Founder of <a href="https://github.com/aashaypawar#:~:text=what%20is%20simplypy?">SimplyPy</a>)
 <br><br>
 val love = Android Development
 <br>
@@ -18,14 +18,16 @@ Toast.makeText(applicationContext, love.language(), Toast.LENGTH_SHORT).show()
   <img src="assets/kotlin.png" height=50>
   <img src="assets/html.png" height=50>
   <img src="assets/css.png" height=50>
+  <img src="assets/mysql.png" height=50>
+  <img src="assets/gcp.png" height=50>
   <img src="assets/aws.png" height=50>
   <img src="assets/azure.svg" height=50>
 </div>
 
 <h3> Writing Samples 📚</h3>
 <ul>
-  <li><a href="https://auth.geeksforgeeks.org/user/aashaypawar/articles">GeeksforGeeks</a></li>
-  <li><a href="https://scholar.google.com/citations?user=9UwnRSgAAAAJ&hl=en">Google Scholar</a></li>
+  <li><a href="https://auth.geeksforgeeks.org/user/aashaypawar/articles">GeeksforGeeks</a> 56 articles</li> 
+  <li><a href="https://scholar.google.com/citations?user=9UwnRSgAAAAJ&hl=en">Google Scholar</a> 4 IEEE conferences</li>
 </ul>
   
 <br>
