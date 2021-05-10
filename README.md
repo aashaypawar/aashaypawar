@@ -1,5 +1,14 @@
 <h1> Hello, Aashay here 👋 </h1>
 
+var role = arrayOf("AI enthusiast", "Coding enthusiast", "Researcher", "Writer", "Developer","Founder of SimplyPy")
+<br><br>
+val love = Android Development
+<br>
+Toast.makeText(applicationContext, love.language(), Toast.LENGTH_SHORT).show()
+<br>
+(Kotlin💘)
+
+
 
 <h3> Languages and Tools 💻 </h3>
 <div orientation="horizontal">
