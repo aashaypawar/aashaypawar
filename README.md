@@ -1,10 +1,10 @@
-<h1> Hello! I'm Aashay 😄 </h1>
-I am a developer and a coding enthusiast . I love creating Android apps.
-
-
-
-Find me on:
-<br>
-<a href = "https://auth.geeksforgeeks.org/user/aashaypawar/articles" target="_blank"> GeeksforGeeks </a>
-<br>
-<a href = "https://scholar.google.com/citations?user=9UwnRSgAAAAJ&hl=en" target="_blank"> Google Scholar </a>
+<div orientation="horizontal">
+  <img src="assets/cpp.png" height=50>
+  <img src="assets/java.png" height=50>
+  <img src="assets/python.png" height=50>
+  <img src="assets/kotlin.png" height=50>
+  <img src="assets/html.png" height=50>
+  <img src="assets/css.png" height=50>
+  <img src="assets/js.png" height=50>
+  <img src="assets/sqlite.png" height=50>
+</div>
