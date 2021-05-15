@@ -20,7 +20,7 @@ I am an AI enthusiast and love developing Native Android Apps (in Kotlin💘).
 <br>
 <h3> Writing Samples 📚</h3>
 <ul>
-  <li><a href="https://auth.geeksforgeeks.org/user/aashaypawar/articles">GeeksforGeeks</a> 56 articles</li> 
+  <li><a href="https://auth.geeksforgeeks.org/user/aashaypawar/articles">GeeksforGeeks</a> 57 articles</li> 
   <li><a href="https://scholar.google.com/citations?user=9UwnRSgAAAAJ&hl=en">Google Scholar</a> 4 IEEE conferences</li>
 </ul>
 <br>
@@ -30,5 +30,7 @@ CodeMyWay is a non-profit organization that runs multiple campaigns to help our 
 <br><br><br><br>
 Thanks for visiting ❤️
 
+
+Last updated on 15/5/21 21:50
 
 
