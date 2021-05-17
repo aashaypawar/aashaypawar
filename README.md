@@ -1,6 +1,6 @@
 <h1> Hello, Aashay here 👋 </h1>
 
-Founder of <a href="https://github.com/aashaypawar#:~:text=what%20is%20codemyway?">CodeMyWay</a> and a Backend Developer
+Founder of <a href="https://github.com/aashaypawar#:~:text=what%20is%20codemyway?" target="_blank">CodeMyWay</a> and a Backend Developer
 <br>
 I am an AI enthusiast and love developing Native Android Apps (in Kotlin💘).
 <br><br>
@@ -31,6 +31,6 @@ CodeMyWay is a non-profit organization that runs multiple campaigns to help our 
 Thanks for visiting ❤️
 
 
-Last updated on 15/5/21 21:50
+Last updated on 17/5/21 22:55
 
 
