@@ -1,6 +1,6 @@
 <h1> Hello, Aashay here 👋 </h1>
 
-Founder of <a href="https://github.com/aashaypawar#:~:text=what%20is%20CodeMyWay">CodeMyWay</a> and a Backend Developer
+Founder of <a href="https://github.com/aashaypawar#:~:text=what%20is%20codemyway?">CodeMyWay</a> and a Backend Developer
 <br>
 I am an AI enthusiast and love developing Native Android Apps (in Kotlin💘).
 <br><br>
