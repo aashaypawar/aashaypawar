@@ -1,8 +1,8 @@
 <h1> Hello, Aashay here 👋 </h1>
 
-Founder of <a href="https://www.codemyway.org/" target="_blank">CodeMyWay</a> and a Backend Developer.
+Founder of <a href="https://www.codemyway.org/" target="_blank">CodeMyWay</a> and a Software Developer.
 <br>
-I am an AI enthusiast and love developing Native Android Apps (in Kotlin💘).
+I am an AI enthusiast and passionate about developing Android Apps (in Kotlin💘).
 <br><br>
 <h3> Languages and Tools 💻 </h3>
 <div orientation="horizontal">
