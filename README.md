@@ -1,6 +1,6 @@
 <h1> Hello, Aashay here 👋 </h1>
 
-Founder of <a href="https://www.codemyway.org/" target="_blank">CodeMyWay</a> and a Software Developer.
+Software Developer
 <br>
 I am an AI enthusiast and passionate about developing Android Apps (in Kotlin💘).
 <br><br>
@@ -24,10 +24,7 @@ I am an AI enthusiast and passionate about developing Android Apps (in Kotlin�
   <li><a href="https://scholar.google.com/citations?user=9UwnRSgAAAAJ&hl=en">Google Scholar</a> 4 IEEE conferences</li>
 </ul>
 <br>
-<h3> What is CodeMyWay?</h3>
-<img src="assets/codemywaybanner.jpeg">
-CodeMyWay is a non-profit organization that runs multiple campaigns to help our community understand and implement the technology. We run the "Uplift" program to provide two month internships to students and professionals who are willing to pursue or change their field to Data Science, AI, ML, Mobile Development, Website Development and other non-technical fields such as marketing and content developing. <a href="">Support us</a>.
-<br><br><br><br>
+
 Thanks for visiting ❤️
 
 
