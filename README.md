@@ -1,6 +1,6 @@
-<h1> Hello, Aashay here 👋 </h1>
+<h1> Hello! 👋 </h1>
 <br>
-I am a Software Developer and I develop Android Apps!
+I am Aashay and I am a Software Engineer.
 <br><br>
 <h3> Languages and Tools 💻 </h3>
 <div orientation="horizontal">
@@ -15,8 +15,5 @@ I am a Software Developer and I develop Android Apps!
   <img src="assets/aws.png" height=50>
   <img src="assets/azure.svg" height=50>
 </div>
-<br>
-
-Thanks for visiting ❤️
 
 
